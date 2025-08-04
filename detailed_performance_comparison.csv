@@ -1,0 +1,25 @@
+Data Size (%),Process,Approach,Time (s)
+25,Filter,Sequential,0.0
+25,Filter,Thread,0.0128
+25,Filter,Multiprocessing,1.6727
+25,Sort,Sequential,0.0371
+25,Sort,Thread,0.0334
+25,Sort,Multiprocessing,1.6139
+50,Filter,Sequential,0.0151
+50,Filter,Thread,0.0081
+50,Filter,Multiprocessing,1.7055
+50,Sort,Sequential,0.0731
+50,Sort,Thread,0.0746
+50,Sort,Multiprocessing,1.7146
+75,Filter,Sequential,0.0093
+75,Filter,Thread,0.0106
+75,Filter,Multiprocessing,1.6471
+75,Sort,Sequential,0.1222
+75,Sort,Thread,0.1092
+75,Sort,Multiprocessing,1.7725
+100,Filter,Sequential,0.0113
+100,Filter,Thread,0.0123
+100,Filter,Multiprocessing,1.6552
+100,Sort,Sequential,0.162
+100,Sort,Thread,0.1621
+100,Sort,Multiprocessing,1.8354
